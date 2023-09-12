@@ -1,0 +1,17 @@
+{
+    "name": "jench/inspire",
+    "autoload": {
+        "psr-4": {
+            "Jch\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chihhung Jen",
+            "email": "jenchihhung7724@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
